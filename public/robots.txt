@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+Disallow: /campaigns/
+Disallow: /manage/
+Disallow: /api/
+
+Sitemap: https://maigo-poster.yhay81.com/sitemap.xml
